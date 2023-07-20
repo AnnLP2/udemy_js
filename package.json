@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "udemy",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^8.45.0",
-    "prettier": "^3.0.0"
+    "prettier": "3.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
